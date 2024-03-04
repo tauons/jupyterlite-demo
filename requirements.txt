@@ -47,3 +47,16 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Tabnine test installation
+# Attempt 0 - at runtime use
+# %pip install -q jupyter-tabnine
+# OR
+# %pip install -q jupyter-tabnine --user
+jupyter-tabnine
+
+# Notebook Extension 
+# Server Extension 
+
+
+
